@@ -1,1 +1,2 @@
 # .gitattributes
+docs/* linguist-documentation
